@@ -1,5 +1,10 @@
 body {
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    background-image: url(/img/happy-man-with-thumbs-up.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
 }
 
 h1,
@@ -51,3 +56,20 @@ header h2 {
 .carousel {
     border: solid #5637DD;
 }
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900);
+
+body {
+
+  background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(/img/happy-man-with-thumbs-up.jpg);
+    background-size: cover;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+}
+
+
+
