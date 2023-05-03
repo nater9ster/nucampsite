@@ -10,6 +10,13 @@ h2 {
     color: #3046C5;
 }
 
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
+
 header h2 {
     color: #cec8ff;
 }
